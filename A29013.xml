@@ -124,7 +124,10 @@
             </p>
             <p>
                <hi>LONDON,</hi> Printed by <hi>M. F.</hi> for <hi>Richard Davis,</hi> Bookſeller in <hi>Oxford.</hi> 1685.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:48133:2" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
          <div type="notice">
             <pb facs="tcp:48133:2"/>
